@@ -1,1 +1,1 @@
-# Project-SNA-Group-5--Rumour-Source-Detection
+# Project-SNA--Rumour-Source-Detection
